@@ -2,8 +2,7 @@
 
 A fully responsive **Admin Dashboard UI** built with React, Vite, Tailwind CSS, and Axios — featuring **JWT authentication**, **protected routes**, **API integration**, **toast notifications**, **error boundaries**, and **Vercel deployment**.
 
-> Live Demo: [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)  
-> *(Replace with your actual link)*
+> Live Demo: [https://react-dashboard-henna-seven.vercel.app](https://react-dashboard-henna-seven.vercel.app)
 
 ---
 
@@ -127,7 +126,7 @@ This project is auto-deployed using **Vercel**.
 ## 🙌 Author
 
 Made with ❤️ by **Gaurav**  
-[LinkedIn](https://www.linkedin.com/in/fnu-gaurav-653355252/) • [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/fnu-gaurav-653355252/) • [GitHub](https://github.com/Dx2905)
 
 ---
 
